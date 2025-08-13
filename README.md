@@ -41,7 +41,7 @@ An interactive web application designed to help users learn React through step-b
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/vatsalyar/Reactutor.git
+git clone https://github.com/udaydeshwal2408/reactutor.git
 cd Reactutor
 ```
 
