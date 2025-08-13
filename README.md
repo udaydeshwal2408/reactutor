@@ -7,9 +7,6 @@ An interactive web application designed to help users learn React through step-b
 ![TypeScript](https://img.shields.io/badge/TypeScript-v4-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-## 🌐 Live Demo
-
-Try it out: [https://reactutor-aws.vatsalya.wiki](https://reactutor.vatsalya.wiki)
 
 ## 📦 Features
 
@@ -111,7 +108,7 @@ docker run -d -p 80:80 reactutor
 
 ## 📄 License
 
-MIT © Vatsalya Rastogi
+MIT © Uday Deshwal
 
 ## 🙏 Acknowledgments
 
